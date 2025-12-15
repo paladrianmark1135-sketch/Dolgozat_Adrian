@@ -1,0 +1,8 @@
+C:\Users\tanulo\Source\Repos\Dolgozat_Adrian\Dolgozat_Adrian\obj\Debug\Dolgozat_Adrian.csproj.AssemblyReference.cache
+C:\Users\tanulo\Source\Repos\Dolgozat_Adrian\Dolgozat_Adrian\obj\Debug\Dolgozat_Adrian.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanulo\Source\Repos\Dolgozat_Adrian\Dolgozat_Adrian\obj\Debug\Dolgozat_Adrian.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Source\Repos\Dolgozat_Adrian\Dolgozat_Adrian\bin\Debug\Dolgozat_Adrian.exe.config
+C:\Users\tanulo\Source\Repos\Dolgozat_Adrian\Dolgozat_Adrian\bin\Debug\Dolgozat_Adrian.exe
+C:\Users\tanulo\Source\Repos\Dolgozat_Adrian\Dolgozat_Adrian\bin\Debug\Dolgozat_Adrian.pdb
+C:\Users\tanulo\Source\Repos\Dolgozat_Adrian\Dolgozat_Adrian\obj\Debug\Dolgozat_Adrian.exe
+C:\Users\tanulo\Source\Repos\Dolgozat_Adrian\Dolgozat_Adrian\obj\Debug\Dolgozat_Adrian.pdb
